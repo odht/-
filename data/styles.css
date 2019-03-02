@@ -58,6 +58,8 @@
   font-size:14px;
   text-align:left;
 }
+.horizontal_line {
+}
 ._文字段落 {
   text-align:left;
 }
@@ -94,6 +96,8 @@
   text-align:left;
 }
 .table_cell {
+}
+._连接线 {
 }
 .menu_item {
 }
