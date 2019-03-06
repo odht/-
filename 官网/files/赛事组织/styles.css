@@ -2293,3 +2293,34 @@
   width:78px;
   word-wrap:break-word;
 }
+#u1271_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1430px;
+  height:79px;
+  background:inherit;
+  background-color:rgba(215, 215, 215, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1271 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:982px;
+  width:1430px;
+  height:79px;
+}
+#u1271_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:24px;
+  width:1426px;
+  word-wrap:break-word;
+}
